@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Yuta and a software developer engineer. I'm from Japan, living in Tokyo.
+
 <!--
 **Yuta-K19418/Yuta-K19418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
